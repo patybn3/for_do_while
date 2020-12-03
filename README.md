@@ -20,6 +20,9 @@ I have used other sources, as detailed in my submitted source file.
 flower
 https://www.openprocessing.org/sketch/946080
 
+<img width="1395" alt="design_for" src="https://user-images.githubusercontent.com/59259041/100961065-9a91b300-34ef-11eb-8550-abced75eef2d.png">
+
+
 ## design_while.pde:
 
 ##### Write a program that includes a set of functions to draw a design of your own. Your program should draw that design across the canvas at least 15 times using a while loop. Your design must be visible as many times as it is specified in the while loop. Name your program design_while.pde.
@@ -27,6 +30,8 @@ https://www.openprocessing.org/sketch/946080
 ##### This program runs at "start" click. It should draw on the screen a set of gray-scale triangles as the background and a set of red rectangles in the middle of the page.
 
 The work I am submitting is my own in its entirety
+
+<img width="598" alt="design_while" src="https://user-images.githubusercontent.com/59259041/100961091-a8dfcf00-34ef-11eb-818e-c87bad1fcd65.png">
 
 # happy_fall.pde:
 
@@ -43,3 +48,5 @@ print out on the screen and on the console of the phrase "Happy Fall -
 October, -date-, with the -date- as a number from 11 to 20.
 
 The work I am submitting is my own in its entirety
+
+<img width="601" alt="happy_fall" src="https://user-images.githubusercontent.com/59259041/100961112-b5642780-34ef-11eb-89cf-120e5f27553e.png">
